@@ -16,7 +16,7 @@ import com.mongodb.DBCursor;
 import com.mongodb.DBObject;
 import com.mongodb.MongoClient;
 
-public class MongodbTest {
+public class MongoDBTest {
 
 	@Test
 	public void connection1() throws IOException {
