@@ -1,4 +1,4 @@
-package com.ancosen.github.mongodb;
+package com.oscerd.github.mongodb;
 
 import java.io.IOException;
 import java.util.Date;
@@ -7,14 +7,14 @@ import java.util.Set;
 
 import org.junit.Test;
 
-import com.ancosen.github.mongodb.config.MongoConfig;
-import com.ancosen.github.mongodb.config.MongoPropertyReader;
 import com.mongodb.BasicDBObject;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.DBCursor;
 import com.mongodb.DBObject;
 import com.mongodb.MongoClient;
+import com.oscerd.github.mongodb.config.MongoConfig;
+import com.oscerd.github.mongodb.config.MongoPropertyReader;
 
 public class MongoDBTest {
 

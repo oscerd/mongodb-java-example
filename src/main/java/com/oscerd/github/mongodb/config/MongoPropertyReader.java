@@ -1,4 +1,4 @@
-package com.ancosen.github.mongodb.config;
+package com.oscerd.github.mongodb.config;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
